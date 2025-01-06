@@ -10,3 +10,7 @@ The rubric contains the following two questions:
 1. Does the web page feature a date and is this date less than two months before the date that you're grading this assignment?
 
 2. Is the web page a presentation and does it feature an interactive plot that appears to have been created with Plotly?
+
+
+The final Product is available on Rpubs (see link below)
+https://rpubs.com/simon_grasdal/DevelopingDataProductsAssignmentWeek3
