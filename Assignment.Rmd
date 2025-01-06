@@ -1,0 +1,15 @@
+---
+title: "Developing Data Products Week 3 Assignment"
+author: "Simon Grasdal"
+date: "2025-01-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(plotly)
+```
+
+```{r}
+plot_ly(z=volcano, type="surface")
+```
